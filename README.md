@@ -1,5 +1,7 @@
 ## Hi there 👋 I am Hariharan
-[![Harits77 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+#Technologies
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<!--[![Harits77 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 <!--
 **Harits77/Harits77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
