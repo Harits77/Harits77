@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Hariharan
   I'm a passionate developer constantly exploring new technologies and building innovative projects.
-### Technologies and Tools
+## Technologies and Tools
 <div class="inline">
 <img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 <img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
