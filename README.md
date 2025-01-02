@@ -7,8 +7,8 @@
 <img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
 <img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
 <img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-<img width="50" height="50" display="inline" src="https://img.icons8.com/fluency/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-<img width="64" height="64" display="inline" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/>
+<img width="48" height="48" display="inline" src="https://img.icons8.com/fluency/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<img width="48" height="48" display="inline" src="https://img.icons8.com/glyph-neue/64/github.png" alt="github"/>
 </div>
 
 
