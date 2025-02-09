@@ -1,5 +1,3 @@
-# 💫 About Me:
-<br>
 ## Hi there 👋 I am Hariharan
    I'm a passionate developer constantly exploring new technologies and building innovative projects.
 ## Technologies and Tools
