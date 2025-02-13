@@ -1,20 +1,30 @@
 ## Hi there 👋 I am Hariharan
    I'm a passionate developer constantly exploring new technologies and building innovative projects.
-## Technologies and Tools
+## Frontend Technologies
 <div class="inline">
 <img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 <img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 <img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
 <img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
+<img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
+</div>
+
+## Backend Technologies
+<div class="inline">
    <img width="48" height="48" src="https://img.icons8.com/fluency/50/node-js.png" alt="node-js"/>
    <img width="48" height="48" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
    <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
-<img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
 <img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
 <img width="48" height="48" display="inline" src="https://img.icons8.com/fluency/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-   
+</div>
+
+## Tools
+<div class="inline">
+<img width="48" height="48" display="inline" src="https://img.icons8.com/fluency/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+<img width="48" height="48" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 </div>
 
 ## 🌐 Socials:
