@@ -20,7 +20,7 @@
 ## Tools
 <div class="inline">
 <img width="48" height="48" display="inline" src="https://img.icons8.com/fluency/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-<img width="48" height="48" src="https://img.icons8.com/ios-filled/50/github.png" alt="github"/>
+<img width="48" height="48" src="https://img.icons8.com/ios/50/github--v1.png" alt="github--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 </div>
 
