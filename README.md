@@ -1,5 +1,4 @@
-### Hi there 👋 I am Hariharan
-   I'm a passionate developer constantly exploring new technologies and building innovative projects.
+![Welcome](https://img.shields.io/badge/Hi_there!_I'm_Hariharan-000000?style=for-the-badge&logo=github&logoColor=white)
 
 <hr style="height:3px;border:none;color:#333;background-color:#333;" />
 
