@@ -1,4 +1,6 @@
-![Welcome](https://img.shields.io/badge/Hi_there!_I'm_Hariharan-000000?style=for-the-badge&logo=github&logoColor=white)
+### 👋 Hi there!  
+## I am **Hariharan**  
+
 
 <hr style="height:3px;border:none;color:#333;background-color:#333;" />
 
