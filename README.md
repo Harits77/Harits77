@@ -3,11 +3,13 @@
 
 <hr style="height:3px;border:none;color:#333;background-color:#333;" />
 
-###🚀 About Me
-🔭 Currently focusing on: Full Stack Development 
-🌱 Learning goals: Becoming an expert in Full Stack Development
-💻 Tech enthusiast: Love exploring new tech stacks and building cool projects
-📚 Always learning: Regularly reading tech documentation to stay updated
+### 🚀 About Me
+
+- 🔭 **Currently focusing on:** Full Stack Development  
+- 🌱 **Learning goals:** Becoming an expert in Full Stack Development  
+- 💻 **Tech enthusiast:** Love exploring new tech stacks and building cool projects  
+- 📚 **Always learning:** Regularly reading tech documentation to stay updated
+
 
 <hr style="height:3px;border:none;color:#333;background-color:#333;" />
 
