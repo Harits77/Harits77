@@ -1,32 +1,8 @@
 ## Hi there 👋 I am Hariharan
    I'm a passionate developer constantly exploring new technologies and building innovative projects.
-## Frontend Technologies
-<div class="inline">
-<img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-<img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-<img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
-<img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/tailwind_css.png" alt="tailwind_css"/>
-</div>
 
-## Backend Technologies
-<div class="inline">
-   <img width="48" height="48" src="https://img.icons8.com/fluency/50/node-js.png" alt="node-js"/>
-  <img width="48" height="48" src="https://img.icons8.com/officel/80/express-js.png" alt="express-js"/>
-   <img width="48" height="48" src="https://img.icons8.com/color/48/mongo-db.png" alt="mongo-db"/>
-
-</div>
-
-## Programming Language
-<img width="48" height="48" display="inline" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
-
-
-## Tools
-<div class="inline">
-<img width="48" height="48" display="inline" src="https://img.icons8.com/fluency/50/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
-<img width="48" height="48" src="https://img.icons8.com/ios/50/github--v1.png" alt="github--v1"/>
-<img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
-</div>
+# 💻 Languages and Tools:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ms-hariharan) 
