@@ -1,5 +1,6 @@
-### 👋 Hi there!  
-## I am **Hariharan**  
+<h3 align="center">
+  👋 Hi there! I am <span style="color:#f39c12;"><strong>Hariharan</strong></span>
+</h3>
 
 
 <hr style="height:3px;border:none;color:#333;background-color:#333;" />
